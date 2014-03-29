@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+	<div class="quote">
+		{{page.quote}}
+		<div style="text-align:right; width:100%"><a href="{{ page.linkurl }}">--{{ page.linktext }}</a></div>
+	</div>
+{{ content }}
+</div>
