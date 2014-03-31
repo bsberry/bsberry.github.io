@@ -1,3 +1,5 @@
 name: Comment Strings
+description: Blog Posts by Ben Berry
+url: http://bsberry.github.io
 markdown: redcarpet
 pygments: true

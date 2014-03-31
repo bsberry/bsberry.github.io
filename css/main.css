@@ -60,14 +60,19 @@ a:visited { color: #a0a; }
   line-height: 1.5em;
 }
 
+.header {
+  margin-bottom: 2em;
+}
+
 .header a {
   font-weight: bold;
   text-decoration: none;
+
 }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  
 }
 
 .title a {

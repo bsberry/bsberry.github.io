@@ -5,6 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
+        <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
@@ -17,8 +18,9 @@
 
         <div class="site">
           <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
+            <h1 class="title" style="margin-bottom:0"><a href="/">{{ site.name }}</a></h1>
+            <a class="extra" href="/">home</a> <br/>
+            <span>{{ site.description }}</span>
           </div>
 
           {{ content }}
@@ -27,6 +29,7 @@
             <div class="contact">
               <p>
                 Ben Berry<br />
+                <a href="/feed.xml">RSS</a>
               </p>
             </div>
             <div class="contact" style="float:right">
