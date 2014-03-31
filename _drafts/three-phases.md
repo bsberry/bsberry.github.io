@@ -4,12 +4,8 @@ title:  "The Three Phases of Changing Someone's Mind"
 date:   2014-03-29 01:56:00AM
 
 quote: | 
-  I journeyed to the East <br/>
-  And I struggled to stay afloat<br/>
-  A solitary Buddhist Monk threw me a rope<br/>
-  Looked me in the eye<br/>
-  And said, "Don't make me say this twice<br/>
-  You want to be a monk, you got to cook a lot of rice<br/>
+ "Don't make me say this twice<br/>
+  If you want to be a monk, you got to cook a lot of rice<br/>
 linktext: Stay Frosty
 linkurl: https://www.youtube.com/watch?v=7Mk1uifmAEw
 ---
