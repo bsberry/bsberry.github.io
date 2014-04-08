@@ -10,6 +10,11 @@ linktext: The Trouble With Never
 linkurl: https://www.youtube.com/watch?v=EheS53Li8DU
 ---
 
+<div class="quote">
+	{{page.quote}}
+	<div style="text-align:right; width:100%"><a href="{{ page.linkurl }}">--{{ page.linktext }}</a></div>
+</div>
+
 One of the changes that I've made in my habits since quitting my big corporate job to go work at a small design company (it's been a time of change and reflection on a lot of things, breaking out of a lot of ruts) has been not pushing small tasks that are part of my current work on to an intellectual backlog, presumably to be taken off and dealt with later. Of course, it was very rare that "later" ever came and the task got completed; even physical notes just became a mentally draining, nagging reminder of all the stuff I hadn't tackled.
 
 Key to this change was realizing that the old method just plain didn't work. I would make a "mental note" to "remember to do something" and then promptly move on and forget about it. In the case of some small sub-task at work, like finding some file's documentation lacking or realizing something needed refactoring or testing, I would never take the tim to fix the problem right now. There were always more features to be written and people wondering why it was taking so long.
