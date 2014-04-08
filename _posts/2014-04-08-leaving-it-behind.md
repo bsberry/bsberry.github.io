@@ -10,7 +10,7 @@ So when a friend from school convinced me that I could work at his company for t
 
 So, in May of 2010, I started work as an intern at NetApp. One of the most significant changes, at the time, was that SAS had interns, and NetApp had an Intern Program. There was an entire class of interns that summer, all of whom I got to socialize with at various events and outings designed to give us a shared sense of community and identity. 
 
-And there is no thing more singularly effective thing you can do to foster belonging to a group than to get them to wear the sigil of the group. So when they gave us hoodies with a blue NetApp logo on the breast and the inscription "2010 Summer Intern" on the sleeve, I wore it. It took a few months for it to get cold enough to justify it, but I wore the hell out of it. Not literally, of course. I treated it with care, since it was an utterly irreplaceable part of my self identity. 
+And there is no thing more singularly effective thing you can do to foster belonging to a group than to get them to wear the sigil of the group. So when they gave us hoodies with a blue NetApp logo on the breast and the inscription "2010 Summer Intern" on the sleeve, I wore it. It took a few months for it to get cold enough to justify it, but I wore the hell out of it. Not literally, of course. I treated it with care, because it was an utterly irreplaceable part of my self identity. 
 
 Since I left NetApp, that hoodie hangs in my closet. Every time I see it, it reminds me of those younger days, when I knew less and was happier that way and couldn't imagine anything better.
 
