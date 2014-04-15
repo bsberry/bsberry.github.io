@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arguing Effectively Requires Trust"
-date:   2014-03-28 11:20:05
+date:   2014-04-15 11:20:05
 
 quote: | 
   That's the trouble with never<br/>
@@ -21,11 +21,11 @@ This is a key insight in to what may be one of the most mystifying emergent soci
 
 It's no wonder that so few minds are changed. 
 
-Or consider the comments on a blog. The regular readers there were attracted by the authority, identity, and credibility of the blogger, but when confronted in the comments by faceless, nameless (except for arbitrary screen names, usually) people disagreeing, there is no reason to take their argument seriously. You don't *know them*.
+Or consider the comments on a blog. The regular readers there were attracted by the authority, identity, and credibility of the blogger, but when confronted in the comments by faceless, nameless people disagreeing, there is no reason to take their argument seriously. You don't *know them*.
 
 <h4>The Social (Disfunction) Network</h4>
 
-As a final example, allow me to present: the Facebook comments argument. Given the nature of Facebook, no two people see exactly the same thing, with each person being fed a filtered, computationally curated list of content from some subset of the people they have designated as "friends." When you jump in to comment on a post of a friend's, that comment is then shown to that person's various and sundry social circles, with which you have absolutely zero knowledge or reputation. Virtually by definition, you are arguing (assuming it's a controversial post) with people who, despite having name and a profile picture that usually shows a face, are functionally nameless and faceless. Why should you listen to them when you have no reason to?
+As a final example, allow me to present: the Facebook comments argument. Given the nature of Facebook, no two people see exactly the same thing, with each person being fed a filtered, computationally curated list of content from some subset of the people they have designated as "friends." When you jump in to comment on a post of a friend's, that comment is then shown to that person's various and sundry social circles, with which you have absolutely zero knowledge or reputation. Virtually by definition, you are arguing (assuming it's a controversial post) with people who, despite having name and a profile picture, are still essentially nameless and faceless. Why should you listen to them when you have no reason to think they know what they're talking about?
 
 <h4>Let it never be said I don't offer solutions</h4>
 
@@ -33,7 +33,7 @@ All moaning about the anonymity of the internet aside, this has very real, very 
 
 My rule is to avoid appealing to an authority that you trust but that your audience has no reason to place stock in. After getting a handle on my life financially and getting out of debt on the advice of Dave Ramsey, I started trying to tell others about it. I thought I was being intellectually honest when I attributed steps and wisdom to Dave, but I was only trying to convince them to trust someone who they had no reason to trust. 
 
-Instead, now I just say *I did such and such* and *ended up having such and such result* and let people decide on their own whether I'm a trustworthy source for this. Asking them to trust a source they have reason to trust, a friend, rather than a stranger they don't know, will always result in a more convincing argument.
+Instead, now I just say *I did such and such* and *ended up having such and such result* and let people decide on their own whether I'm a trustworthy source for this. Asking them to trust a source they have reason to trust, me, rather than a stranger they don't know, will always result in a more convincing argument.
 
 Hint: if you ever ask "Have you heard of ..." in a conversation and they say no, that's not a good source to appeal to.
 

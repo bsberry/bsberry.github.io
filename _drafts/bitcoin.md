@@ -2,16 +2,6 @@
 layout: post
 title:  "The Three Phases of Changing Someone's Mind"
 date:   2014-03-29 01:56:00AM
-
-quote: | 
-  I journeyed to the East <br/>
-  And I struggled to stay afloat<br/>
-  A solitary Buddhist Monk threw me a rope<br/>
-  Looked me in the eye<br/>
-  And said, "Don't make me say this twice<br/>
-  You want to be a monk, you got to cook a lot of rice<br/>
-linktext: Stay Frosty
-linkurl: https://www.youtube.com/watch?v=7Mk1uifmAEw
 ---
 
 --How miners make money
@@ -36,4 +26,4 @@ The underly technology of bitcoin is a concept called asymmetric encryption. Now
 
 On the other hand, there is a form of encryption where you don't have just one key, but two, and they are a pair. Encrypt a message with one and you need the other key to decrypt it; there's no way to find out one key if you know the other. This leands to what is also known as "public-key cryptography", named after the practice of publishing one key in the pair and keeping the other as a closley guarded secret.
 
-If you encrypt an email with my public key and then send it to me, only somebody who can decrypt it with my private key can read it. And hopefully that's only me
+If you encrypt an email with my public key and then send it to me, only somebody who can decrypt it with my private key can read it. And hopefully that's only me.
