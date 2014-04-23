@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Malcolm Gladwell, Large and Small"
-date:   2014-034-22 05:14:00PM
+date:   2014-04-22 05:14:00PM
 ---
 
 I'm a fan of Malcolm Gladwell's writing. I wasn't always, and before I wasn't, I was a fan of his books, but these days, it's the opposite. I've read _Blink_ and I've read _Outliers_ and now find them overly broad and unconvincing. His normal formula seems to be to find an interesting corner of humanity and tell its story, but when he tries to scale that up to a book-length piece, it just gets watered-down and diffuse.
