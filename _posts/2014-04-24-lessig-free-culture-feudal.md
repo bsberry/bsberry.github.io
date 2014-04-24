@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Something to ponder: Lawrence Lessig in *Free Culture*"
-date:   2014-03-31 09:00:00AM
+date:   2014-04-24 01:32:00AM
 ---
 
 > A free culture is not a culture without property; it is not a culture in which artists don't get paid. A culture without property, . . . is anarchy, not freedom. . . . But just as a free market is perverted if its property becomes feudal, so too can a free culture be queered by extremism in the property rights that define it.
