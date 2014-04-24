@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Something to ponder: Lawrence Lessig in *Free Culture*"
+title:  "Something to ponder: Lawrence Lessig in <i>Free Culture</i>"
 date:   2014-04-24 01:32:00AM
 ---
 
