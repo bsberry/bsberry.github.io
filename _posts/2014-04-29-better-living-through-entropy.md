@@ -22,7 +22,7 @@ No roommate, no roommate's girlfriend, no exile to the basement, no video. I'm h
 
 #### Don't go smashing windows
 
-Of course, this isn't to say, like the proponents of the Broken Window Fallacy in the 1700s, that all destruction and disorder improves your life. Nor that everyone should go out and get someone to live in your spare bedroom (although the cash helps with getting out of debt). Like everything in life, moderation is key.
+Of course, this isn't to say, like the proponents of the Broken Window Fallacy in the 1800s, that all destruction and disorder improves your life. Nor that everyone should go out and get someone to live in your spare bedroom (although the cash helps with getting out of debt). Like everything in life, moderation is key.
 
 My encouragement to you would be to simply live your life in a way that is open to having a little entropy injected now and then. Hang out with friends even if you're not sure if you'll have a good time. Say hi to the stranger you might recognize from college just in case. Don't assume that your daily routine has cracked the happiness code and that you should just keep recycling it every day until you forget your name and start drooling on yourself.
 
