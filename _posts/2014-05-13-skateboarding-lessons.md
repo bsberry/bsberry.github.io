@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Three Things I Learned From Teaching Myself To Skateboard"
-date:   2014-03-29 01:56:00AM
+date:   2014-05-13 11:49:00PM
 ---
 
 I have a list of things I'm going to learn to do eventually, like hunting a deer or solving a Rubik's cube, and with my recent transition to a new job in a new city, I decided it was time to tick one off the list: riding a skateboard.
