@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Getting There"
+date:   2014-06-24 12:00:00PM
+---
+
+*In 2009, I learned to shoot a gun and very quickly started competing. Off and on for two years I shot matches when I could to keep up my handgun proficiency. When I graduated college in 2011, with my newfound free time and disposable income, I set out to "get serious" about competition shooting, not as practice for concealed carry but as a hobby and a sport unto itself, with obvious benefits to my overall shooting skill. In the fall of 2011, I bumped from Marksman to Sharpshooter in IDPA. In the summer of 2012, I made Expert. Last Saturday, I made Master.*
+
+*There are many things that played in to it that I will go in to later, but for now, I'll just reprint a blog post I made elsewhere on the last day of the year 2012. Little did I know that in the year to come I would buy a new competition gun and find it finicky and frustrating. Little did I know I'd dedicate my Sunday evenings to recording a podcast about shooting, self defense, and competition. Little did I know that I would read George Leonard's "Mastery" and come to love the plateau and goalless practice. But what follows is what I did know.*
+
+What they don’t tell you about goals and success is that, for any really meaningful goal, between when you set it and achieve it, you’ll become a different person. Perfect example: college. You may set the goal to go to college and get a degree, and while you’ll still be you when you’re done, you will probably bear very little resemblance to the person you were when you went started.
+
+Almost two years ago I set the goal to get serious and get good at practical shooting like IDPA and USPSA. My goal was to make IDPA Master class, and I’m not quite there yet, but it’s in sight. But where, twenty four months ago, the leap between my current state and shooting at a Master level was a vast one that seemed both momentous and hugely special, after literally years of work, when I make Master it won’t be with the awe and admiration I held when I took my first step on this path. It will be with the tacit understanding and nodding agreement that nothing in this world comes for free and I’ve earned this. On one level it’s less wondrous and amazing than it was when I set out to do it (has it really been two years?!). But at the same time, it’s a welcome milestone on the path of mastery I’ve embarked on.
+
+It will also be just that: a milestone. When I conceived of this progression to Master level, it was with a goal in mind, a final, end state, as though achieving that would be the final chapter in the book of my time in the practical shooting sport. But that was because I was thinking like a Sharpshooter. In the intervening time, I’ve come to realize that Master class isn’t a destination, it’s a checkpoint in the journey. I can pull over to the side of the road there, but if I do it’s with the knowledge that it stretches on much further.
+
+Even trying to pick an ultimate destination for the road is arbitrary. I could say that I could hope to be as good as Bob Vogel, the runaway leader in my chosen sport of IDPA, but by the time I ever got there, either Bob Vogel would be better than he is now (ahem) or there would be someone even better. If I were to someday surpass him, it would be because he was a hero of a bygone era, like Rob Leatham is today. Still a top-flight shooter but perhaps on par rather than head and shoulders above the young bucks nipping at his heels.
+
+What I’m saying is, you can set out to topple your idols, but by the time you get a chance, there will be a whole new batch of competition. And you can set out to do something meaningful, but by the time you do it, you won’t be you any more. You’ll be someone else. In all likelihood, if it’s a worthwhile goal that you work hard for, you’ll be a better you.
+
+But you’ll still look back at the you that set off down that road and wonder how you could have ever been so naive.
