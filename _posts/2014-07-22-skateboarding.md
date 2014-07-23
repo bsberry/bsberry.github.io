@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  ""
-date:   2014-03-29 01:56:00AM
+title:  "On Skateboarding"
 ---
 
 *Note: this post was originally written 29 March 2014 and lost in the shuffle until now. Enjoy.*
