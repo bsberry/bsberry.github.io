@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Easy to Produce vs Easy to Consume"
+---
+
+Let me borrow your imagination. Picture in your mind a line, a spectrum, a gradient. At one end is "easy to produce" and at the other end is "easy to consume." This, my friends, is the continuum that all creative and indeed many other things in life (food?) exist on. 
+
+Heck, if I was more skilled and more interested, I could make it harder on myself as the producer and spend time putting together some kind of diagram of this spectrum. It would probably be a flat horizontal line. On the left side, near "easy to produce," there might be a hash mark that says "books." On the right, near "easy to consume," there could be a hash mark that says "movies." Somewhere to the left of books you could even put a hash that says "blogs written by people too inept to make graphics." 
+
+But instead, I don't. I describe the graph and leave it up to you to imagine it, with the assumption that the amount of work it requires of you is much less than it would require for me to actually make a graph that looks half as good as the version in your head. Of course, the more people that are out there reading this--not a problem I'm worried about--the more collective effort it takes my audience to imagine what I'm describing. At some inflection point it becomes less work overall for me to just make the graphic myself, but I'm confident that point has yet to be reached.
+
+This tradeoff has helped informed my decision to abandon, after *A Storm of Swords*, reading the "Song of Ice and Fire" saga and instead just watch the TV series as it becomes available to me. (I haven't yet seen a season without reading the book before it, so the third will be an experiment when I get my hands on it. It may be that it makes no sense to me.) After all, since all the work has been done by thousands of people, from actors to producers to editors to distributors, to make the show much easier to consume, why not take advantage of it? Why spend all my time and concentration staring at a page or Kindle screen for dozens of hours when a season can be watched in ten hours flat?
+
+Now, "A Song of Ice and Fire" is very much the exception in the TV world: a broad, sweeping, ensemble story that would be infeasible to produce with anything short of the HBO show's effectively infinite budget. But many great books tell stories with many characters, in many locations, with many totally unreal things, which cost the author marginally nothing compared to writing about quotidian items. "The Lord of The Rings" roams all around Middle Earth, "Pandora's Star" spans dozens of planets and intersteller expanses, and the Vlad Taltos books go to Hell and back a couple times, which would all be difficult to film economically. In other words, they use the comparative advantage of the status of books as being easy to produce. A single person at a word processor can weave stories that would take a legion of workers to depict on screen.
+
+On the other hand, shows like Cosmos take fairly well known science that is normally hard to consume (written in dry non-fiction books) and spends a great deal of effort to produce something that is easy to consume, while keeping all of the educational value. 
+
+Heck, even editing this blog post increases the amount of work on me, the producer, and reduces the amount of work on you, the consumer. But since I know what word or clause I meant when I make a typo or bad phrasing, the amount of work it places on me is much less than it would be for you to try to decipher my meaning. Thus we edit, and when we have the luxury, get the help of editors, putting all the work in on the production side to lower the work on the consumption side. 
+
+Because, of course, all things being equal, the lower the cost to consume, the more people will.
