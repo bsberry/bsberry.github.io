@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "The Three Phases of Changing Someone's Mind"
-date:   2014-03-29 01:56:00AM
-
-quote: | 
- "Don't make me say this twice<br/>
-  If you want to be a monk, you got to cook a lot of rice<br/>
-linktext: Stay Frosty
-linkurl: https://www.youtube.com/watch?v=7Mk1uifmAEw
 ---
 
 Having had my mind changed about some fairly significant things (diet, shoes, excercise) in the last few years, and seen others go through the same process, I have noticed a few common stages of the phases people go through when you're trying to upend their current beliefs. This is what someone more professional might call a working paper, but I've found the insights here to be helpful enough that you might apply them in your own life.
@@ -27,7 +20,7 @@ I'm not really convincing them. I'm just giving them the tools to convince thems
 
 <h4>Step 3: Q&A</h4>
 
-The way you know you've really hooked someone is when they follow up on the discussion and ask you questions. Whether it's a 2am text message or a casual inquiry the next time you see each other, the questions you get asked are the result of being unable to construct an adequate answer to some question based on the previous conversation. *"Okay, I get X and Y, but what about Z?" At this point you've mostly hooked them, and as long as you can answer those questions reasonably well, they'll probably end up convincing themself you're right over the next few days and weeks.
+The way you know you've really hooked someone is when they follow up on the discussion and ask you questions. Whether it's a 2am text message or a casual inquiry the next time you see each other, the questions you get asked are the result of being unable to construct an adequate answer to some question based on the previous conversation. *"Okay, I get X and Y, but what about Z?"* At this point you've mostly hooked them, and as long as you can answer those questions reasonably well, they'll probably end up convincing themself you're right over the next few days and weeks.
 
 If it's really important to you, maybe follow up and mention it again. This isn't an absolute process, and sometimes you can go through this cycle a few times, of introducing new information, letting it process, and then answering the follow up questions. But in general, this is how I've found that you change someone's mind.
 
