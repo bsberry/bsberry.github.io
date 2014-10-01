@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reflec"
+title:  "Reflections on Nationals"
 ---
 
 We're sitting across a fraying-at-the-edges fiberboard table in a run down Mexican restaurant. I stumble over the Spanish dish names. I'm worried because I don't have very much cash and they don't take cards. She's telling me about her upcoming trip to Qatar for two months for work. We have a brief diversionary conversation about how I don't understand the altrusitic, humanitarian motivation to her work. Making a difference in peoples' lives instead of writing apps to help people spend their money more efficiently has a certain appeal, though, I concede.
