@@ -21,4 +21,4 @@ And perhaps there is some truth in that meaning of it, too. But after concluding
 
 And that was when I realized another meaning of the proverb. The nature of the work is important, too. It doesn't say "Before enlightenment, seek enlighenment. After enlightenment, seek enlightenment." Enlightenment may be the goal, but ultimately the pursuit of it should be accompanied by meaningful but menial work. Tasks to occupy the body and give the mind time to, in its own way, seek enlightenment. As I washed endless glasses and scrubbed pans, various and sundry thoughts rose, unbidden and otherwise unobserved, in to my consciousness. 
 
-On of them, of course, being that I really miss blogging.
+One of them, of course, being that I really miss blogging.
