@@ -10,6 +10,7 @@ Daily, repetitive practice, begun in earnest in four months ago and slowly ratch
 As I went to put on my gear and get to practicing as though it were some great sacrifice, I thought about the zen proverb:
 
 > Before enlightenment, chop wood and carry water.
+
 > After enlightenment, chop wood and carry water.
 
 I've reflected on this before, thinking about the way that enlightenment, however that manifests in your life, is not something that radically changes your life. It's something that happens in the stream of events and might shift the stream in a better direction, but doesn't drastically alter the flow.
