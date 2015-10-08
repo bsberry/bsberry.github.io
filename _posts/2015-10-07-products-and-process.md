@@ -7,7 +7,12 @@ quote: |
   Before enlightenment, chop wood and carry water.<br/>
   After enlightenment, chop wood and carryw ater.
 linktext: The Trouble With Never
+linkurl: 
 ---
+
+*Before enlightenment, chop wood and carry water.<br/>
+  After enlightenment, chop wood and carry water.<br/>
+  --Zen Proverb*
 
 Some years ago, a friend of mine introduced me to the concept of goal-oriented people and outcome-oriented people. As she described the dichotomy, I knew that I was inescapably a process-oriented person.
 
