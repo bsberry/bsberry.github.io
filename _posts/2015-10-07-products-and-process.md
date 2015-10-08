@@ -2,12 +2,6 @@
 layout: post
 title:  "Process and Products"
 date:   2015-10-07 10:00:00PM
-
-quote: | 
-  Before enlightenment, chop wood and carry water.<br/>
-  After enlightenment, chop wood and carryw ater.
-linktext: The Trouble With Never
-linkurl: 
 ---
 
 *Before enlightenment, chop wood and carry water.<br/>
@@ -24,8 +18,8 @@ No effort was wasted if something was learned.
 
 The downside to this is that occasionally I neglect to reach my destination because I'm too absorbed in the texture and shape of the path in front of me. 23 months ago, I started developing an Android app to help myself practice for shooting competitions more effectively. When I started, I told myself that this would be my first break as an independent developer: an app that was all mine. I thought I was motivated by the goal of shipping software and helping fellow shooters.
 
-However, three moths later I had an unpolished, buggy, but usable app that let me do what I wanted to in practice. After that, development largely ceased. Making something did not motivate me. Improving the process of my practice motivated me and as soon as that barrier was overcome, my animus evaporated. To this day, it's a running joke among shooting friends, the Chinese Democracy of apps.
+However, three months later I had an unpolished, buggy, but usable app that let me do what I wanted to in practice. After that, development largely ceased. Making something did not motivate me. Improving the process of my practice motivated me and as soon as that barrier was overcome, my animus evaporated. To this day, it's a running joke among shooting friends, the Chinese Democracy of apps.
 
 But, privately, I know that instead of making the app ready for production, I've gotten back to practicing. And I'm seeing results from that.
 
-I woud love to be of service to others, and like to think the weekly podcast I do helps thousands. But I'm realisitic now that I will only persist in an endeavor if the process itself is compelling and interesting to me.
+I would love to be of service to others, and like to think the weekly podcast I do helps thousands. But I'm realistic now that I will only persist in an endeavor if the process itself is compelling and interesting to me.
