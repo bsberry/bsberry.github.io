@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Back at Blogging"
-date:   2016-07-18 9:51:00PM
+date:   2016-07-19 6:30:00PM
 ---
 
 I was recently re-listening to [Tim Ferriss's interview with Seth Godin](http://fourhourworkweek.com/2016/02/10/seth-godin/). I originally listened to it three or four months ago and found it very interesting. So interesting, in fact, that I knew I hadn't extracted all the marrow from it, so I marked it unread and stuck it all the way at the end of my podcast queue, where new stuff would jump in front of it, for a time when I would have worked through my backlog and be ready for it again.

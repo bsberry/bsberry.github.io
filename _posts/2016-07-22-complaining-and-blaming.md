@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Complaining and Blaming isn't Leadership"
-date:   2016-07-21 7:30:00AM
+date:   2016-07-22 7:30:00AM
 ---
 
 Another interesting thing from [Jocko Podcast #13 around the 1h44m mark](https://youtu.be/Xqy3Sh7BlaY?t=6258) is the discussion of being too direct, which hit home for me because the day I'd just had.

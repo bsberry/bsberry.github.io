@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heuristic for Evaluating Genuine Endorsements"
-date:   2016-07-22 7:30:00AM
+date:   2016-07-25 7:30:00AM
 ---
 
 I propose a heuristic for determining whether an endorsement of something is genuine: ask the person endorsing it to describe a drawback to it. If they can't, they haven't used it enough to discover any and are just regurgitating marketing hype and/or uninformed naysaying.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jocko on Not Telling BUD/S Stories"
-date:   2016-07-20 7:30:00AM
+date:   2016-07-21 7:30:00AM
 ---
 
 On [Jocko Podcast episode #13, around the 1h37m mark](https://youtu.be/Xqy3Sh7BlaY?t=5827), Jocko, who was in the SEAL teams for more than a decade, fields a question about why he doesn't tell more stories about BUD/S. 

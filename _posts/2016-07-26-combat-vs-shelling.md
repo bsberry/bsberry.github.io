@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "Combat vs Shelling"
-date:   2016-07-23 7:51:00AM
+date:   2016-07-26 7:51:00AM
 ---
 
 Three different podcasts I listen to have all touched on the topic of the psychological effect of shelling and artillery recently. Jocko Podcast episode 10 talked about it, Tim Ferriss interviewing Sebastian Junger talked about it, and Dan Carlin's WWI series talked about it.
